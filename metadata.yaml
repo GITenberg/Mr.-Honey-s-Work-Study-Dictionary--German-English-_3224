@@ -1,0 +1,25 @@
+_repo: Mr.-Honey-s-Work-Study-Dictionary--German-English-_3224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Honig, Winfried
+    gutenberg_agent_id: '1134'
+    url: http://www.gutenberg.org/2009/agents/1134
+description: ''
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3224'
+language:
+- de
+- en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'English language -- Dictionaries -- German'
+- !lcc 'PE'
+- !lcsh 'German language -- Dictionaries -- English'
+- GITenberg
+title: Mr. Honey's Work Study Dictionary (German-English)
+url: http://www.gutenberg.org/ebooks/3224
